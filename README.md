@@ -28,10 +28,12 @@ via the -FilePath switch.
 # EXAMPLES
 ## Example
 PS> Get-PSCustomGenericOIDFromMicrosoft
+
 Returns the OID and the support information.
 
 ## EXAMPLE
 PS> Get-PSCustomGenericOIDFromMicrosoft -FilePath $env:UserProfile\Documents
+
 Creates the output fule 'GenericOidInfo.txt' in the specified directory. 
 
 # NOTES
