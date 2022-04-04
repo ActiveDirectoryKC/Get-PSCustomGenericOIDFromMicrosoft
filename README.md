@@ -4,8 +4,9 @@ to decimal sequences and appended to the automated generic Microsoft OID Range (
 
 Version 1.0
 
-LINK TO CHANGE LOG: 
-LINK TO LICENSE: 
+LINK TO CHANGE LOG: https://github.com/ActiveDirectoryKC/Get-PSCustomGenericOIDFromMicrosoft/blob/main/CHANGELOG.md
+
+LINK TO LICENSE: https://github.com/ActiveDirectoryKC/Get-PSCustomGenericOIDFromMicrosoft/blob/main/LICENSE.md
 
 # PARAMETERS
 ## PARAMETER FilePath
